@@ -3,6 +3,7 @@
 #include<stdbool.h>
 #define SIZE 500
 
+
 struct node
 {int data;
 struct node *left,*right;
