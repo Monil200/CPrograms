@@ -6,7 +6,7 @@ print tree in vertical order
 iterative method to find height..done
 print all nodes at distance k from leaf nodes..
 print LCA....1. using arrays 2. using just one traversal..done
-print all ancestors of a node..done
+print all ancestors of a node...done
 find pair with given sum..using 2 stacks..in O(n) time.
 creating BST from preorder..
 create tree from sorted array...like binary search..done-->this is subsolution to this-->merge 2 BST in O(m+n) time
